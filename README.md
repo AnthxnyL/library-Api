@@ -9,7 +9,7 @@ API Node.js Express avec MongoDB/Mongoose pour la gestion d’une bibliothèque.
 
 ## Fonctionnalités
 
-- CRUD sur les livres, utilisateurs, prêts, bibliothèques
+- CRUD sur les livres, utilisateurs, prêts
 - Recherche avancée (filtres, recherche plein texte)
 - Statistiques sur les livres (par genre, langue, auteur, etc.)
 - Gestion des prêts et des livres empruntés
